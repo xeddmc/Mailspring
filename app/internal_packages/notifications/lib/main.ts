@@ -7,7 +7,7 @@ import NotifWrapper from './notif-wrapper';
 import AccountErrorNotification from './items/account-error-notif';
 import DefaultClientNotification from './items/default-client-notif';
 import DevModeNotification from './items/dev-mode-notif';
-import PleaseSubscribeNotification from './items/please-subscribe-notif';
+//import PleaseSubscribeNotification from './items/please-subscribe-notif';
 import DisabledMailRulesNotification from './items/disabled-mail-rules-notif';
 import OfflineNotification from './items/offline-notification';
 import UpdateNotification from './items/update-notification';
@@ -16,7 +16,7 @@ const notifications = [
   AccountErrorNotification,
   DefaultClientNotification,
   DevModeNotification,
-  PleaseSubscribeNotification,
+  //PleaseSubscribeNotification,
   DisabledMailRulesNotification,
   OfflineNotification,
   UpdateNotification,
